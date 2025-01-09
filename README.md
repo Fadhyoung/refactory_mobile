@@ -8,7 +8,7 @@ and proccessing all the neccessary request from front-end app by retruning a sta
 Go Language, Raiden Framework (for supabase)
 
 # Folder Structure
-
+```
 refactory_mobile/
 │
 ├── analysis_options.yaml
@@ -59,3 +59,4 @@ refactory_mobile/
     ├── CMakeLists.txt
     ├── flutter
     └── runner
+```
