@@ -1,19 +1,25 @@
-# refactory_mobile
+# Introduction
 
-A new Flutter project.
+Refactory backend is an back-end application that has been builted for completing the task of T92999 PIP Refactory, this app aim for controling
+and proccessing all the neccessary request from front-end app by retruning a state or data. This app is related or connected to database.
 
-## Getting Started
+# Technology
 
-This project is a starting point for a Flutter application.
+Go Language, Raiden Framework (for supabase)
 
-A few resources to get you started if this is your first Flutter project:
+# Folder Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+refactory_mobile/
+│
+├ android/
+├ ios/
+├ lib/
+│ └ main.dart
+├ linux/
+├ macos/
+├ test/
+├ web/
+├ windows
+├ README.md
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# refactory_mobile
-# refactory_mobile
-# refactory_mobile
+# Visit my FAMOVIE please:
